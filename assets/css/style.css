@@ -24,3 +24,10 @@ tfoot {
   width: 180px;
   height: 200px;
 }
+.border {
+  border: thick double green;
+}
+.opacity {
+  opacity: 0.5;
+  background-color: orange;
+}
